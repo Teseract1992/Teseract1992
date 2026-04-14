@@ -1,50 +1,90 @@
 # Hi, I'm Esteban | Senior Software & AI Architect 🚀
 
-📍 **Buenos Aires, Argentina** | 🛠️ **Expert .NET, Azure & AI Engineering**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Teseract1992/Teseract1992/main/banner.png" alt="Architect Banner" width="100%" />
+</div>
 
-> "Transforming complex business challenges into scalable, AI-driven architectures with a focus on autonomous agentic systems."
+📍 **Buenos Aires, Argentina** | 🛠️ **Expert .NET, Azure & AI Engineering** | 💼 **14+ Years of Professional Experience**
+
+> "Transforming complex business challenges into scalable, AI-driven architectures with a focus on autonomous agentic systems and distributed excellence."
 
 ---
 
 ### 🧠 Expertise at a Glance
 
-*   **AI Engineering**: RAG Pipelines, Multi-Agent Swarm Orchestration, LLM Fine-tuning (OpenAI/Azure/Gemini).
-*   **Backend Architecture**: Clean Architecture, DDD, CQRS, Microservices, Distributed Systems.
-*   **Cloud & DevOps**: Azure Ecosystem, Terraform, Docker, Kubernetes, CI/CD Automation.
-*   **Trading Intelligence**: Reinforcement Learning for financial markets (Sniper V10, NeuralDev).
+*   **AI Engineering**: RAG Pipelines, Multi-Agent Swarm Orchestration, LLM Fine-tuning (OpenAI/Azure/Gemini), AI-assisted development workflows.
+*   **Backend Architecture**: Clean Architecture, DDD, CQRS, Microservices, gRPC, Distributed Systems, Event-Driven Architecture (Azure Service Bus).
+*   **Cloud & DevOps**: Azure Ecosystem, Functions, Cosmos DB, Terraform, Docker, Kubernetes, CI/CD Automation.
+*   **Enterprise Integration**: High-throughput systems, Compliance-critical solutions (HIPAA, X12), Financial & Insurance sectors.
+*   **Frontend Ecosystem**: Modern React, Angular, and legacy AngularJS/Javascript.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,fastapi,docker,github,terraform,mongodb,redis,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,fastapi,docker,github,terraform,mongodb,redis,react,nextjs,angular,ts,js,sqlserver,mysql&theme=dark" />
 </div>
 
 ---
 
-### 🌟 Featured Deployment: [Agent Satisfaction Workflow](https://github.com/Teseract1992/AgentSatisfactionWorkflow)
+### 💼 Professional Journey
+
+#### **Endava — Senior Software Engineer (.NET/Azure)** | *2022 – 2025*
+*   **Strategic Architect**: Designed distributed healthcare workflows using **.NET Core Microservices** on Azure.
+*   **Event-Driven Mastery**: Built robust architectures using **Azure Service Bus**, gRPC, CQRS, and the Outbox pattern.
+*   **Compliance Engineering**: Delivered **HIPAA-compliant** systems for Prior Authorization (X12 278, 215/216).
+*   **Resilience**: Implemented high-reliability patterns using **Polly** (Circuit Breaker) and advanced DLQ handling.
+
+#### **Charles Taylor InsureTech — Software Developer Analyst** | *2019 – 2022*
+*   **Lead Developer**: Directed backend design and frontend evolution for global insurance platforms.
+*   **Scalable Design**: Optimized ASP.NET Core APIs and defined system architecture decisions for high-volume transactions.
+*   **Modern Stack**: Leveraged **Angular**, SQL Server, and Cosmos DB to modernize heritage systems.
+
+<details>
+<summary>📂 View More Professional Experience (2011 - 2018)</summary>
+
+#### **BP4 — Full Stack Developer** | *2018*
+*   **Banking Operations**: Developed credit/debit card modules for **Banco Macro** using **AngularJS** and **Node.js**.
+*   **Automation**: Automated complex report generation for high-stakes audits.
+
+#### **Baufest — Software Developer Analyst SSR** | *2017 – 2018*
+*   **Banking Evolution**: Maintained and evolved core banking features for **Banco Hipotecario** using .NET Framework and NHibernate.
+
+#### **Accenture — Software Developer Analyst** | *2011 – 2016*
+*   **Foundational Excellence**: 5+ years building enterprise banking systems for **Banco Galicia** (HomeBanking, FonoBanco).
+*   **Major Migrations**: Led the **HOST-to-SOAP** migration, modernizing legacy integrations into modern MVC services.
+*   **Mentorship**: Guided dozens of junior developers across critical incident shifts and SLA compliance.
+</details>
+
+---
+
+### 🌟 Project Spotlight: [Agent Satisfaction Workflow](https://github.com/Teseract1992/AgentSatisfactionWorkflow)
 
 **The Ultimate Enterprise RAG Intelligence Suite.**
 *   **Hybrid Infrastructure**: Seamlessly toggle between simulated Mocks and Live Azure environments.
 *   **Premium Visuals**: Obsidian-themed dashboard with deep Glassmorphism aesthetics.
 *   **Architecture**: 100% Clean Architecture & CQRS for industry-standard reliability.
-*   [**Explore the Repository →**](https://github.com/Teseract1992/AgentSatisfactionWorkflow)
 
 ---
 
 ### 📊 GitHub Momentum
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teseract1992&show_icons=true&theme=nord&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teseract1992&layout=compact&theme=nord&hide=html,css" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Teseract1992&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teseract1992&layout=compact&theme=tokyonight&hide=html,css" height="180" />
 </div>
 
 ---
 
-### 📬 Connect with me
+### 🎓 Education & Certifications
+*   **Technical Degree in Systems Analysis** — I.S.F.D. y T. Nº 172
+*   **Specializations**: Docker, LLM Performance Engineering, Generative AI, CQRS, and Architectural Design Patterns.
 
-[**LinkedIn**](https://linkedin.com/in/estebangaribaldi) | [**Email**](mailto:garibaldiesteban@gmail.com) | [**Portfolio**](https://github.com/Teseract1992)
+---
+
+### 📬 Connect with me
+[**LinkedIn**](https://linkedin.com/in/estebangaribaldi) | [**Email**](mailto:garibaldiesteban@gmail.com)
 
 ---
 *Generated by the Teseract Orchestrator Swarm.*

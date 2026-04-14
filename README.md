@@ -1,19 +1,22 @@
-
 # Hi, I'm Esteban | Senior Software & AI Architect 🚀
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Teseract1992/Teseract1992/main/banner.png" alt="Architect Banner" width="50%" />
+</div>
 
 📍 **Buenos Aires, Argentina** | 🛠️ **Expert .NET, Azure & AI Engineering** | 💼 **14+ Years of Professional Experience**
 
-> "Transforming complex business challenges into scalable, AI-driven architectures with a focus on autonomous agentic systems and distributed excellence."
+> "Senior Software Engineer with 10+ years of experience designing, building, and evolving enterprise-grade platforms across healthcare, banking, and insurance industries. Expert in C#, .NET, Azure cloud-native architectures, distributed systems, and event-driven microservices."
 
 ---
 
 ### 🧠 Expertise at a Glance
 
-*   **AI Engineering**: RAG Pipelines, Multi-Agent Swarm Orchestration, LLM Fine-tuning (OpenAI/Azure/Gemini), AI-assisted development workflows.
-*   **Backend Architecture**: Clean Architecture, DDD, CQRS, Microservices, gRPC, Distributed Systems, Event-Driven Architecture (Azure Service Bus).
-*   **Cloud & DevOps**: Azure Ecosystem, Functions, Cosmos DB, Terraform, Docker, Kubernetes, CI/CD Automation.
-*   **Enterprise Integration**: High-throughput systems, Compliance-critical solutions (HIPAA, X12), Financial & Insurance sectors.
-*   **Frontend Ecosystem**: Modern React, Angular, and legacy AngularJS/Javascript.
+*   **Backend Engineering**: C#, .NET Core / .NET 6+, ASP.NET Core Web API, Microservices, CQRS, DDD, Clean Architecture, gRPC, REST APIs, Quartz.NET, Polly, Dapper, Entity Framework, SQL Server, Cosmos DB, Distributed Systems, Event-Driven Architecture, Azure Service Bus, Outbox Pattern.
+*   **Frontend Ecosystem**: Angular, AngularJS, React, JavaScript, TypeScript, Bootstrap, Material UI, jQuery, Node.js, Express.
+*   **Cloud & DevOps**: Azure Functions, Azure SQL, Cosmos DB, Blob Storage, Azure DevOps, CI/CD pipelines, Docker, Monitoring & Observability.
+*   **Applied AI**: AI-assisted coding (Claude Code, Copilot, Codex, Gemini), prompt engineering, automated refactoring/debugging, personal RAG pipelines, FastAPI, vector databases, Azure OpenAI experimentation.
+*   **Methodologies**: Agile (Scrum/Kanban), code reviews, mentoring, technical estimations, production support, incident management.
 
 ---
 
@@ -27,36 +30,47 @@
 
 ### 💼 Professional Journey
 
-#### **Endava — Senior Software Engineer (.NET/Azure)** | *2022 – 2025*
-*   **Strategic Architect**: Designed distributed healthcare workflows using **.NET Core Microservices** on Azure.
-*   **Event-Driven Mastery**: Built robust architectures using **Azure Service Bus**, gRPC, CQRS, and the Outbox pattern.
-*   **Compliance Engineering**: Delivered **HIPAA-compliant** systems for Prior Authorization (X12 278, 215/216).
-*   **Resilience**: Implemented high-reliability patterns using **Polly** (Circuit Breaker) and advanced DLQ handling.
+#### **Endava — Software Engineer (.NET)** | *2022 – 2025*
+*   Designed and implemented distributed healthcare workflows using **.NET Core microservices on Azure**.
+*   Built event-driven architectures with **Azure Service Bus, queues, gRPC, CQRS, Outbox pattern**, and background workers.
+*   Delivered **HIPAA-compliant** Prior Authorization systems implementing X12 278 transactions and X12 215/216 flows.
+*   Implemented resilience using **Polly** (retry, circuit breaker) and DLQ handling strategies.
+*   Scheduled processes using **Quartz.NET** and ensured reliable async processing pipelines.
+*   Integrated **Azure Cosmos DB, SQL, Blob Storage**, and third-party systems (**JotForms**).
+*   Participated in **architecture design**, code reviews with architects, client discussions, debugging, and CI/CD pipelines.
+*   Worked under **Agile (Scrum/Kanban)** with strong cross-team collaboration.
 
 #### **Charles Taylor InsureTech — Software Developer Analyst** | *2019 – 2022*
-*   **Lead Developer**: Directed backend design and frontend evolution for global insurance platforms.
-*   **Scalable Design**: Optimized ASP.NET Core APIs and defined system architecture decisions for high-volume transactions.
-*   **Modern Stack**: Leveraged **Angular**, SQL Server, and Cosmos DB to modernize heritage systems.
-
-<details>
-<summary>📂 View More Professional Experience (2011 - 2018)</summary>
+*   Led backend development and contributed to frontend maintenance for insurance platforms.
+*   Designed scalable **ASP.NET Core APIs**, performed functional and technical analysis, and defined system architecture decisions.
+*   Worked with **Angular, SQL Server, Cosmos DB**, Azure services, and DevOps pipelines.
+*   Provided estimations, mentored new developers, and ensured best practices in development.
+*   Handled integrations via **REST and SOAP services** and contributed to high-performance enterprise solutions.
 
 #### **BP4 — Full Stack Developer** | *2018*
-*   **Banking Operations**: Developed credit/debit card modules for **Banco Macro** using **AngularJS** and **Node.js**.
-*   **Automation**: Automated complex report generation for high-stakes audits.
+*   Developed and maintained high-volume banking systems for **Banco Macro**.
+*   Built **AngularJS and Node.js** modules handling credit/debit card operations.
+*   Resolved production issues, automated processes, and generated Excel/PDF reports.
+*   Managed **Windows Server environments** and performed code reviews for junior developers.
+*   Worked in Agile/Kanban environments using **JIRA, Bitbucket, and Confluence**.
 
 #### **Baufest — Software Developer Analyst SSR** | *2017 – 2018*
-*   **Banking Evolution**: Maintained and evolved core banking features for **Banco Hipotecario** using .NET Framework and NHibernate.
+*   Maintained and evolved banking platforms for **Hipotecario**.
+*   Developed features using **.NET Framework, NHibernate, and SQL Server**.
+*   Worked on campaigns and **Procrear systems** for customer benefits and data processing.
+*   Designed APIs, integrated banking services, and handled production deployments and support.
 
 #### **Accenture — Software Developer Analyst** | *2011 – 2016*
-*   **Foundational Excellence**: 5+ years building enterprise banking systems for **Banco Galicia** (HomeBanking, FonoBanco).
-*   **Major Migrations**: Led the **HOST-to-SOAP** migration, modernizing legacy integrations into modern MVC services.
-*   **Mentorship**: Guided dozens of junior developers across critical incident shifts and SLA compliance.
-</details>
+*   Developed enterprise banking systems for **Banco Galicia** across GaliciaOffice, HomeBanking, and FonoBanco.
+*   Worked with **C#, ASP.NET MVC, ASP Classic, VBScript, VB6, SOAP services**, SQL Server, IIS.
+*   Led **HOST-to-SOAP migration** improving system integrations.
+*   Created **UML documentation** and handled testing, estimations, and incident resolution.
+*   Performed production support including critical incident shifts and **SLA compliance**.
+*   Mentored junior developers and participated in technical decision-making.
 
 ---
 
-### 🌟 Project Spotlight: [Agent Satisfaction Workflow](https://github.com/Teseract1992/AgentSatisfactionWorkflow)
+### 🌟 Featured Deployment: [Agent Satisfaction Workflow](https://github.com/Teseract1992/AgentSatisfactionWorkflow)
 
 **The Ultimate Enterprise RAG Intelligence Suite.**
 *   **Hybrid Infrastructure**: Seamlessly toggle between simulated Mocks and Live Azure environments.
@@ -75,8 +89,8 @@
 ---
 
 ### 🎓 Education & Certifications
-*   **Technical Degree in Systems Analysis** — I.S.F.D. y T. Nº 172
-*   **Specializations**: Docker, LLM Performance Engineering, Generative AI, CQRS, and Architectural Design Patterns.
+*   **Technical Degree in Systems Analysis** — I.S.F.D. y T. Nº 172 (2010).
+*   **Certifications**: Docker, LLM Performance Engineering, Generative AI, CQRS, and Design Patterns.
 
 ---
 

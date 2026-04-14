@@ -1,9 +1,9 @@
-# Hi, I'm Esteban | Senior Software & AI Architect 🚀
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Teseract1992/Teseract1992/main/banner.png" alt="Architect Banner" width="50%" />
 </div>
-
+<div align="center">
+# Hi, I'm Esteban | Senior Software & AI Architect 🚀
+</div>
 📍 **Buenos Aires, Argentina** | 🛠️ **Expert .NET, Azure & AI Engineering** | 💼 **14+ Years of Professional Experience**
 
 > "Transforming complex business challenges into scalable, AI-driven architectures with a focus on autonomous agentic systems and distributed excellence."
